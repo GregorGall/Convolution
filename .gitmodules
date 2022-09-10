@@ -1,0 +1,6 @@
+[submodule "LabSource"]
+	path = LabSource
+	url = https://github.com/GregorGall/LabSource.git
+[submodule "ConsoleGraph"]
+	path = ConsoleGraph
+	url = https://github.com/GregorGall/ConsoleGraph.git
